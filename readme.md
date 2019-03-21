@@ -55,7 +55,7 @@ coming soon
 > git clone git@github.com:GuilhermeDev98/laraadmin-skeleton.git myProjectName
 - Enter in project folder
 > cd myProjectName/
-- Intall composer dependences
+- Install composer dependences
 > composer install
 - Install JS dependences
 >npm install
