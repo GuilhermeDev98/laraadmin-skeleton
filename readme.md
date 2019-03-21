@@ -61,6 +61,6 @@ coming soon
 >npm install
 - Compile JS and SCSS Files
 > npm run dev
-- Rum local server
+- Run local server
 > php artisan serve
 - Acess [http://localhost:8000](http://localhost:8000/) and voila
